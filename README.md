@@ -1,6 +1,6 @@
 # Cornell API Client Library
 
-[![Build Status](https://github.com/SamChou19815/samlang/workflows/CI/badge.svg)](https://github.com/cornell-dti/cornell-api-libs/actions)
+[![Build Status](https://github.com/cornell-dti/cornell-api-libs/workflows/CI/badge.svg)](https://github.com/cornell-dti/cornell-api-libs/actions)
 
 Kotlin-friendly Cornell API Client Library.
 
